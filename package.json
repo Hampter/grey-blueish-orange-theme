@@ -1,9 +1,10 @@
 {
   "publisher": "Hampter",
   "name": "grey-blueish-orange-theme",
+  "icon": "icon.png",
   "displayName": "Grey-Blueish Orange Theme",
   "description": "A grey-blue and orange theme",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.85.0"
   },
