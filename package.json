@@ -1,0 +1,21 @@
+{
+  "name": "grey-blueish-orange-theme",
+  "displayName": "Grey-Blueish Orange Theme",
+  "description": "A grey-blue and orange theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grey-Blueish Orange Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Grey-Blueish Orange Theme-color-theme.json"
+      }
+    ]
+  }
+}
