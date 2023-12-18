@@ -1,5 +1,5 @@
 # Grey-Blueish Orange Theme
-v1.0.2
+v1.0.3
 
 GitHub for Issues and Feedback
 https://github.com/Hampter/grey-blueish-orange-theme
